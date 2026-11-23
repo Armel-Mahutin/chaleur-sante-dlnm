@@ -1,0 +1,4 @@
+donnees/*.rds
+resultats/*.rds
+.Rhistory
+.RData
