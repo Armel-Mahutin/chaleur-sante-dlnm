@@ -1,0 +1,11 @@
+"indicateur","valeur"
+"Répétitions",200
+"Vrai RR au P99 (moyenne)",1.172
+"RR estimé (moyenne géométrique)",1.189
+"Biais relatif du log-RR (%)",8.878
+"RMSE du log-RR",0.049
+"Couverture de l'IC à 95 % (%)",91.5
+"IC 95 % de la couverture : bas (%)",86.739
+"IC 95 % de la couverture : haut (%)",94.97
+"Largeur moyenne de l'IC (rapport haut/bas)",1.189
+"Répétitions avec un effet significatif (puissance, %)",96.5
